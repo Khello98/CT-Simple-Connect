@@ -1,0 +1,10 @@
+C:\Users\alhukh01\Documents\Visual Studio 2017\Projects\SimpleConnect\SimpleConnect\bin\Debug\SimpleConnect.exe.config
+C:\Users\alhukh01\Documents\Visual Studio 2017\Projects\SimpleConnect\SimpleConnect\bin\Debug\SimpleConnect.exe
+C:\Users\alhukh01\Documents\Visual Studio 2017\Projects\SimpleConnect\SimpleConnect\bin\Debug\SimpleConnect.pdb
+C:\Users\alhukh01\Documents\Visual Studio 2017\Projects\SimpleConnect\SimpleConnect\obj\Debug\SimpleConnect.csproj.CoreCompileInputs.cache
+C:\Users\alhukh01\Documents\Visual Studio 2017\Projects\SimpleConnect\SimpleConnect\obj\Debug\SimpleConnect.exe
+C:\Users\alhukh01\Documents\Visual Studio 2017\Projects\SimpleConnect\SimpleConnect\obj\Debug\SimpleConnect.pdb
+C:\Users\alhukh01\Documents\Visual Studio 2017\Projects\SimpleConnect\SimpleConnect\obj\Debug\SimpleConnect.csprojAssemblyReference.cache
+C:\Users\alhukh01\Documents\Visual Studio 2017\Projects\SimpleConnect\SimpleConnect\bin\Debug\CTECMPCommsPort.dll
+C:\Users\alhukh01\Documents\Visual Studio 2017\Projects\SimpleConnect\SimpleConnect\obj\Debug\SimpleConnect.csproj.CopyComplete
+C:\Users\alhukh01\Documents\Visual Studio 2017\Projects\SimpleConnect\SimpleConnect\bin\Debug\CTECMPCommsPort.xml
